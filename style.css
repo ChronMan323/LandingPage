@@ -1,0 +1,10 @@
+
+.body {
+    color: black;
+}
+
+.header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    background-color: aqua;
+}
