@@ -15,6 +15,10 @@
     background-color: grey;
 }
 
+.image-row {
+    display: flex;
+}
+
 .quote-box {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
