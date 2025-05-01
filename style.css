@@ -16,6 +16,12 @@
 
 ul {
     display: flex;
+    list-style-type: none;
+    
+}
+
+li {
+    padding-right: 10px;
 }
 
 .bottom-header {
