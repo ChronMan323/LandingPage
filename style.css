@@ -12,6 +12,7 @@
 .top-header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 ul {
@@ -26,6 +27,19 @@ li {
 
 .bottom-header {
     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-left {
+    font-size: 30px;
 }
 
 .random-info {
