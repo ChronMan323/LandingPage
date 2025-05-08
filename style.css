@@ -7,6 +7,10 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
     background-color: aqua;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
 
 .top-header {
@@ -54,6 +58,7 @@ li {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 500px;
 }
 
 .touch-grass {
