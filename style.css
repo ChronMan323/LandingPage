@@ -42,6 +42,11 @@ li {
     font-size: 30px;
 }
 
+.para-1 {
+    text-wrap: wrap;
+    width: 300px;
+}
+
 .random-info {
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
