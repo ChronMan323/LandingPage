@@ -49,8 +49,16 @@ li {
 
 .random-info {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
     background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.touch-grass {
+     font-size: 35px;
+     
 }
 
 .image-row {
