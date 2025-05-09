@@ -57,9 +57,9 @@ li {
     background-color: grey;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
-    height: 500px;
+    height: 300px;
 }
 
 .touch-grass {
@@ -69,6 +69,22 @@ li {
 
 .image-row {
     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.info-pics {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+   
+}
+
+.info-blurb {
+    text-wrap: wrap;
+    
 }
 
 .quote-box {
